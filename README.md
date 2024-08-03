@@ -1,6 +1,8 @@
 # abt-diagnostika
-Talabalar uchun diagnostika web sayt OTMlar bo'yicha !
+OTM lar bo'yicha talaba uchun diagnostika web sayti!
 
+
+[Demo web sayt](https://ulugbekweb.uz/abt/)
 
 **📌 Ijtimoiy tarmoqlarga obuna bo'ling!**
 
